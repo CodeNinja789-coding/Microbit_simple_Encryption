@@ -1,6 +1,10 @@
 
 > Open this page at [https://codeninja789-coding.github.io/microbit_simple_encryption/](https://codeninja789-coding.github.io/microbit_simple_encryption/)
 
+## How it works
+It uses the transposition cipher and reverses the encrypted message.
+Designed for micro:bit.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
